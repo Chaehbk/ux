@@ -1,2 +1,0 @@
-# ux
-UX research
