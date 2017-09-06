@@ -2357,8 +2357,9 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 1em 0 2em 0;
 			width: 100%;
+			position: center;
 		}
 
 			.image.fit img {
@@ -2396,24 +2397,22 @@
 	}
 
 		table tbody tr {
-			border: solid 1px #c9c9c9;
+			border: solid 1px #ffffff;
 			border-left: 0;
 			border-right: 0;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(144, 144, 144, 0.075);
+				background-color: #ffffff;
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.75em 1em 1em 0.75em;
 		}
 
 		table th {
-			font-size: 0.9em;
-			font-weight: 900;
-			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
+			padding: 0 0.75em 0.75em 2em;
+			text-align: right;
 		}
 
 		table thead {
