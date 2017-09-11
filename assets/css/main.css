@@ -2422,10 +2422,10 @@
 }
 /* Table column sizing*/
 .Rtable--2cols > .Rtable-cell-head{
-	width: 18%;
+	width: 22%;
 }
 .Rtable--2cols > .Rtable-cell-body{
-	width: 82%;
+	width: 78%;
 }
 
 
@@ -2463,6 +2463,20 @@
 	margin-bottom: 1em;
 }
 
+/* video */
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 
 /* Button */
 
