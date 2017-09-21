@@ -1678,22 +1678,22 @@
 			color: #343434 !important;
 		}
 
-	w900 {
+	.w900 {
 		font-weight: 900;
 	}
-	w700 {
+	.w700 {
 		font-weight: 700;
 	}
-	w600 {
+	.w600 {
 		font-weight: 600;
 	}
-	w400 {
+	.w400 {
 		font-weight: 400;
 	}
-	w300 {
+	.w300 {
 		font-weight: 300;
 	}
-	w200 {
+	.w200 {
 		font-weight: 200;
 	}
 
