@@ -1678,13 +1678,25 @@
 			color: #343434 !important;
 		}
 
-	strong {
+	900 {
 		font-weight: 900;
 	}
-
-	b {
+	700 {
+		font-weight: 700;
+	}
+	600 {
 		font-weight: 600;
 	}
+	400 {
+		font-weight: 400;
+	}
+	300 {
+		font-weight: 300;
+	}
+	200 {
+		font-weight: 200;
+	}
+
 	em, i {
 		font-style: italic;
 	}
