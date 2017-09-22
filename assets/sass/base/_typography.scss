@@ -37,9 +37,14 @@
 		}
 	}
 
-	strong, b {
+	b {
 		color: _palette(fg-bold);
-		font-weight: _font(weight-regular);
+		font-weight: _font(weight-bold);
+	}
+
+	strong {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-strong);
 	}
 
 	em, i {
