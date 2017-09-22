@@ -1677,6 +1677,13 @@
 			border-bottom-color: transparent;
 			color: #343434 !important;
 		}
+	bold {
+		font-weight: 400;
+	}
+
+	strong {
+		font-weight: 600;
+	}
 
 	.w900 {
 		font-weight: 900;
